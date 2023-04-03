@@ -1,4 +1,4 @@
----
+Minecraft 
 items:
  - docker/dockercraft
  - minefold/hubot-minecraft
